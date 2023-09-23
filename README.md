@@ -4,5 +4,6 @@
 Project EE410
 
 ### authors:
-Maxime Daniau
+Maxime Daniau,
+
 Regnault Edgar
