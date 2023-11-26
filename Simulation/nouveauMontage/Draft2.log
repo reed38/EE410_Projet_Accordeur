@@ -1,0 +1,25 @@
+Circuit: * C:\Users\Ordi\Documents\cours\4A\EE470\Accordeur\github\EE410_Projet_Accordeur\Simulation\nouveauMontage\Draft2.asc
+
+WARNING: Node OUTPUT2 is floating.
+
+WARNING: Less than two connections to node output2.  This node is used by c3.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Nov 26 21:43:16 2023
+Total elapsed time: 0.334 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 23703
+traniter = 23679
+tranpoints = 8408
+accept = 5790
+rejected = 2618
+matrix size = 13
+fillins = 4
+solver = Normal
+Avg thread counts: 3.0/1.1/1.1/1.0
+Matrix Compiler1: 744 bytes object code size  0.4/0.3/[0.2]
+Matrix Compiler2: 1.14 KB object code size  0.2/0.2/[0.1]
+

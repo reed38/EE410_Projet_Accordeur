@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Ordi\Documents\cours\4A\EE470\Accordeur\github\EE410_Projet_Accordeur\Simulation\ampli\Draft2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Nov 26 16:52:34 2023
+Total elapsed time: 0.474 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 30495
+traniter = 30492
+tranpoints = 8901
+accept = 6318
+rejected = 2583
+matrix size = 12
+fillins = 2
+solver = Normal
+Avg thread counts: 1.0/1.1/1.1/1.0
+Matrix Compiler1: 680 bytes object code size  0.3/0.2/[0.2]
+Matrix Compiler2: 1.02 KB object code size  0.2/0.2/[0.1]
+
